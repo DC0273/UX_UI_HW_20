@@ -1,0 +1,135 @@
+.hero-image{
+    background-image: url("images/heroimgcasestudy.jpg");
+    height: 100%;
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.CaseStudyIntro{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 8%;
+    margin-bottom: 8%;
+    display: flex;
+}
+.title{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #707070;
+}
+#info{
+    color: #707070; 
+    padding-left: 20%;
+}
+.introInfo{
+    text-align: left;
+    width: 90%;
+}
+.intro{
+    text-align: center;
+}
+.introSubtitles{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #707070;
+}
+.Research{
+    padding:10%;
+    background-color: #484848;
+}
+.card-title{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25pt;
+}
+.card-text{
+    color: white;
+    font-size: small;
+}
+.researchImg{
+    width: 100%;
+    height: auto;
+    background-color: #efeff1;
+}
+.theQuote{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-right: 10%;
+    padding-left: 10%;
+    font-style: italic;
+}
+.quotee{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-right: 10%;
+    padding-left: 10%;
+    font-style: italic;
+}
+.container{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.affinityIMG{
+    max-width: 100%;
+    height: auto;
+}
+.adiagramcap{
+    text-align: center;
+    padding-top: 5%;
+}
+.userInsight{
+    margin-top: 7%;
+}
+.caption-text{
+    width: 30%;
+}
+.summary{
+    padding-top: 20%;
+    padding-bottom: 20%;
+    padding-right: 35%;
+    padding-left: 35%;
+}
+.summary-text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#707070;
+    padding-left: 7%;
+}
+.userImg{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+.userCaption{
+    padding-top: 3%;
+    text-align: center;
+    padding-bottom: 10%;
+}
+.ideation{
+    background-color: #E4E4E4;
+    padding: 10% 30% 10% 30%;
+    text-align: center;
+}
+.idea-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.validatingImg{
+    width: 100%;
+    height: auto;
+    padding-right: 10%;
+    padding-bottom: 10%;
+}
+.protitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 7%;
+}
+.proText{
+    text-align: center;
+}
+.proCap{
+    text-align: center;
+    padding-top: 3%;
+}
