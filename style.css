@@ -133,3 +133,12 @@
     text-align: center;
     padding-top: 3%;
 }
+.testsubTitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.theTest{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-right: 10%;
+    padding-left: 10%;
+}
