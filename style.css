@@ -124,7 +124,7 @@
 .protitle{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    padding-top: 7%;
+    padding-top: 10%;
 }
 .proText{
     text-align: center;
@@ -141,4 +141,29 @@
     text-align: left;
     padding-right: 10%;
     padding-left: 10%;
+}
+.wireframegif{
+    margin-left: 44%;
+    margin-top: 10px;
+    margin-right: auto;
+    height: 50%;
+}
+.finaltitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.conclusion{
+    background-color: #484848;
+    padding: 10% 30% 10% 30%;
+    text-align: center;
+    margin-top: 5%;
+}
+.conclusion-text{
+    color: #ACACAC;
+}
+.conclusion-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding-bottom: 5%;
 }
